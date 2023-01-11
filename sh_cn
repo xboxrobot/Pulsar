@@ -53,7 +53,7 @@ if Lyth_Pulsar.Config.Language == "cn" then
 
   lang["creditsSingle"] = "积分"
 
-  lang["perma"] = "Perma"
+  lang["perma"] = "永久的"
 
   lang["price"] = "价格: %s %s"
 
